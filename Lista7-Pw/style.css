@@ -86,6 +86,7 @@ button{
     height: 40px;
     align-self: center;
     border-radius: 40px;
+    cursor: pointer;
 }
 
 button:hover{
